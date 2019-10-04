@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.opentok.android.v3:opentok-android-sdk-v3-3.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opentok-android-sdk-v3-3.1.1.aar/a402f56bcb8cd4f9618a4575b601ab40/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opentok-android-sdk-v3-3.1.1.aar/a402f56bcb8cd4f9618a4575b601ab40/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opentok-android-sdk-v3-3.1.1.aar/a402f56bcb8cd4f9618a4575b601ab40/jars/libs/libwebrtc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

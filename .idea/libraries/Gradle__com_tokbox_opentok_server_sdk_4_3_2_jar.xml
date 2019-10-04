@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tokbox:opentok-server-sdk:4.3.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tokbox/opentok-server-sdk/4.3.2/d687bd5880247b70cfa12177698fd792f96f7b69/opentok-server-sdk-4.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tokbox/opentok-server-sdk/4.3.2/a1645b0f1f7839173585c3cabaf91496cbf21c7/opentok-server-sdk-4.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tokbox/opentok-server-sdk/4.3.2/8c4b78fdfc5ed86bfec1c12f5b1d41af00d13814/opentok-server-sdk-4.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
